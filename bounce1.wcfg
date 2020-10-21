@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Exercises/New folder/bounce/bounce_tb_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="bounce_tb" />
+            <top_module name="std_logic_1164" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/bounce_tb/rst" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bounce_tb/bounce_in" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">bounce_in</obj_property>
+      <obj_property name="ObjectShortName">bounce_in</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bounce_tb/ena" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ena</obj_property>
+      <obj_property name="ObjectShortName">ena</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bounce_tb/clk" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bounce_tb/debounce_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">debounce_out</obj_property>
+      <obj_property name="ObjectShortName">debounce_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/bounce_tb/clk_period" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">clk_period</obj_property>
+      <obj_property name="ObjectShortName">clk_period</obj_property>
+   </wvobject>
+</wave_config>
